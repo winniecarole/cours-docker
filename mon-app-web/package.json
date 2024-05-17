@@ -1,0 +1,13 @@
+{
+    "name": "mon-app-web",
+    "version": "1.0.0",
+    "description": "Une simple application web Dockerisée",
+    "main": "server.js",
+    "scripts": {
+      "start": "node src/server.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
+  
